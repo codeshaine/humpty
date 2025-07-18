@@ -6,7 +6,12 @@ one line explanation:
 
 ```
 a JavaScript library for writing your application in MODEL->UPDATE->VIEW architecture.
-
 ```
 
 look at the example written by dumbGPT for reference
+
+---
+
+## Working on:
+
+- [ ] adding a diffing algo for dom update

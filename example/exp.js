@@ -1,4 +1,4 @@
-import { main, Div, Button, UL, LI, Input } from "./index.js";
+import { main, Div, Button, UL, LI, Input } from "../index.js";
 
 const Msg = Object.freeze({
   Add: "Add",
